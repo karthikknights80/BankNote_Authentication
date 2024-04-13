@@ -12,7 +12,7 @@ this uses fastapi to perform http requests
 model is saved in pickel file(classifier.pkl) which is used to make predictions for the data that is recevied from the post request.
 
 # BankNotes.py
-mentions the format for the that should be allowed from a post request
+mentions the format for the data that should be allowed from a post request
 
 # Swagger
 localhost:8000/docs
